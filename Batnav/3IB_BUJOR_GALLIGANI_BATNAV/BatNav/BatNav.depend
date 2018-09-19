@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526411341 source:c:\users\windows 8\desktop\batnav\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	"iocolor.h"
+
+1516310356 c:\users\windows 8\desktop\batnav\iocolor.h
+
+1526419541 source:c:\users\windows 8\desktop\batnav_non-cancellare\3ib_bujor_galligani_batnav\batnav\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	"iocolor.h"
+
+1516310356 c:\users\windows 8\desktop\batnav_non-cancellare\3ib_bujor_galligani_batnav\batnav\iocolor.h
+
