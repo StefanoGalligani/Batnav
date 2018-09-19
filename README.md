@@ -1,2 +1,2 @@
 # Batnav
-A C++ version of Battleship i made ffor school (language: italian)
+A C++ version of Battleship i made for school (language: italian)
